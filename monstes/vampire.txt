@@ -1,0 +1,39 @@
+Vampire
+[ Vampire ]
+Mort-vivant (métamorphe) de taille M, loyal mauvais
+Classe d'armure 16 (armure naturelle)
+Points de vie 144 (17d8 + 68)
+Vitesse 9 m
+FOR
+18 (+4)
+DEX
+18 (+4)
+CON
+18 (+4)
+INT
+17 (+3)
+SAG
+15 (+2)
+CHA
+18 (+4)
+Jets de sauvegarde Dex +9, Sag +7, Cha +9
+Compétences Discrétion +9, Perception +7
+Résistances aux dégâts nécrotiques ; contondants, perforants et tranchants d'attaques non magiques
+Sens vision dans le noir à 36 m, Perception passive 17
+Langues les langues qu'il connaissait de son vivant
+Puissance 13 (10000 PX)
+
+Métamorphe. Si le vampire n'est pas au soleil ou dans une étendue d'eau courante,
+il peut utiliser son action pour se métamorphoser en une chauve-souris de taille
+TP ou en un nuage de brouillard de taille M, ou reprendre sa véritable forme.
+Tant qu'il est sous forme de chauve-souris, le vampire ne peut pas parler,
+sa vitesse de déplacement au sol tombe à 1,50 m, mais il obtient une vitesse de vol de 9 mètres. 
+Ses statistiques, autres que sa taille et sa vitesse, restent inchangées. 
+Tout ce qu'il porte sur lui est transformé avec lui, contrairement à ce qu'il transporte. 
+Il retrouve sa véritable forme s'il meurt. Tant qu'il est sous forme brumeuse, 
+le vampire ne peut effectuer aucune action, parler ou manipuler un objet. 
+Il est en apesanteur, obtient une vitesse de vol de 6 mètres, peut rester en vol stationnaire, 
+pénétrer dans l'espace d'une créature hostile et s'y arrêter. De plus, si de l'air peut passer par un petit espace, 
+le nuage de brume le peut également sans être considéré comme passant dans un espace étroit. 
+Le nuage ne peut pas pénétrer dans l'eau. Il a l'avantage aux jets de sauvegarde de Force, Dextérité 
+et Constitution, et est immunisé à tous les dégâts non magiques, à l'exception des dégâts qu'il subit du soleil.
