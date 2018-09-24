@@ -1,0 +1,27 @@
+Hyène
+[ Hyena ]
+Bête de taille M, sans alignement
+Classe d'armure 11
+Points de vie 5 (1d8 + 1)
+Vitesse 15 m
+FOR
+11 (+0)
+DEX
+13 (+1)
+CON
+12 (+1)
+INT
+2 (-4)
+SAG
+12 (+1)
+CHA
+5 (-3)
+Compétences Perception +3
+Sens Perception passive 13
+Langues -
+Puissance 0 (10 PX)
+
+Tactique de groupe. Une hyène a l'avantage aux jets d'attaque contre une créature si au moins l'un de ses alliés est à 1,50 mètre ou moins de la créature et n'est pas incapable d'agir.
+ACTIONS
+
+Morsure. Attaque au corps à corps avec un

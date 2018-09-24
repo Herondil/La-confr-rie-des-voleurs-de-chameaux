@@ -1,0 +1,27 @@
+Hyène géante
+[ Giant Hyena ]
+Bête de taille G, sans alignement
+Classe d'armure 12
+Points de vie 45 (6d10 + 12)
+Vitesse 15 m
+FOR
+16 (+3)
+DEX
+14 (+2)
+CON
+14 (+2)
+INT
+2 (-4)
+SAG
+12 (+1)
+CHA
+7 (-2)
+Compétences Perception +3
+Sens Perception passive 13
+Langues -
+Puissance 1 (200 PX)
+
+Déchaînement. Lorsque durant son tour de jeu la hyène amène une créature à 0 point de vie avec une attaque au corps à corps, elle peut utiliser une action bonus pour se déplacer de la moitié de son mouvement et réaliser une attaque de morsure.
+ACTIONS
+
+Morsure. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 10 (2d6 + 3) dégâts perforants.
